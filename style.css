@@ -1,0 +1,249 @@
+body {
+    line-height: 1;
+    color: black;
+    background: white;
+    font-family: candara;
+    background-color: rgb(247, 250, 154);
+}
+
+#title {
+    width: 100%;
+    margin: 0 auto;
+    color: rgb(21, 228, 21);
+    ;
+    text-align: center;
+    font-size: 500%;
+    font-family: candara;
+    margin-bottom: 5%;
+    -webkit-text-stroke: 1px black
+}
+
+#redText {
+    font-size: 250%;
+    margin-left: 18%;
+    display: inline-block;
+    color: rgb(21, 228, 21);
+    -webkit-text-stroke: 1px black;
+}
+
+#pinkText {
+    font-size: 250%;
+    margin-left: 20%;
+    display: inline-block;
+    color: rgb(21, 228, 21);
+    -webkit-text-stroke: 1px black;
+}
+
+#orangeText {
+    font-size: 250%;
+    margin-left: 18%;
+    display: inline-block;
+    color: rgb(21, 228, 21);
+    -webkit-text-stroke: 1px black;
+}
+
+#redLamp {
+    /* font-size: 16px;
+    line-height: 28px; */
+    margin-left: 16%;
+    display: inline-block;
+    border: 5px solid rgb(21, 228, 21);
+}
+
+#pinkLamp {
+    font-size: 16px;
+    line-height: 28px;
+    margin-left: 16%;
+    display: inline-block;
+    border: 5px solid rgb(21, 228, 21);
+}
+
+#orangeLamp {
+    font-size: 16px;
+    line-height: 28px;
+    margin-left: 15%;
+    display: inline-block;
+    border: 5px solid rgb(21, 228, 21);
+}
+
+#red {
+    margin-left: 15%;
+    display: inline-block;
+    font-size: 40px;
+    margin-top: 2%;
+    width: 14%;
+    /* background-color: rgb(177, 228, 153); */
+}
+
+#redTel {
+    /* button size */
+    margin-left: 0%;
+    display: inline-block;
+    font-size: 100%;
+    text-align: center;
+    padding: 2%;
+    /* button color */
+    text-decoration-color: rgb(D3, D5, D6);
+    padding: 2%;
+    background-color: rgb(d3, d5, d6);
+    text-decoration: none;
+    border-radius: 8px;
+    border: 5px solid rgb(d3, d5, d6);
+}
+
+a {
+    text-decoration: underline;
+    color: rgb(21, 228, 21);
+    border-color: black;
+    -webkit-text-stroke: 1px black;
+    font-family: candara;
+}
+
+#tel {
+    text-decoration: none;
+    text-decoration: unset
+}
+
+#redEmail {
+    /* button size */
+    /* margin-left: 10%; */
+    margin-top: 5%;
+    display: inline-block;
+    font-size: 40px;
+    padding: 3%;
+    /* button color */
+    text-decoration-color: rgb(D3, D5, D6);
+    padding: 2%;
+    background-color: rgb(d3, d5, d6);
+    text-decoration: none;
+    border-radius: 8px;
+    border: 5px solid rgb(d3, d5, d6);
+}
+
+#pink {
+    /* button size */
+    margin-left: 15%;
+    display: inline-block;
+    font-size: 40px;
+    margin-right: 0;
+    width: 14%;
+    /* ----------- */
+}
+
+#pinkTel {
+    /* font-size: 16px;
+    line-height: 28px; */
+    /* button size */
+    margin-left: 0%;
+    display: inline-block;
+    font-size: 100%;
+    text-align: center;
+    padding: 2%;
+    /* button color */
+    text-decoration-color: rgb(D3, D5, D6);
+    padding: 2%;
+    background-color: rgb(d3, d5, d6);
+    text-decoration: none;
+    border-radius: 8px;
+    border: 5px solid rgb(d3, d5, d6);
+}
+
+#pinkEmail {
+    margin-top: 5%;
+    display: inline-block;
+    font-size: 40px;
+    padding: 3%;
+    /* ------------- */
+    /* margin-left: 10%;
+    margin-top: 5%;
+    display: inline-block;
+    font-size: 40px;
+    padding: 3%; */
+    /* button color */
+    text-decoration-color: rgb(D3, D5, D6);
+    padding: 2%;
+    background-color: rgb(d3, d5, d6);
+    text-decoration: none;
+    border-radius: 8px;
+    border: 5px solid rgb(d3, d5, d6);
+}
+
+#Orange {
+    /* button size */
+    margin-left: 13%;
+    display: inline-block;
+    font-size: 40px;
+    margin-right: 0;
+    width: 14%;
+    color: ;
+}
+
+#orangeTel {
+    /* font-size: 16px;
+    line-height: 28px; */
+    /* button size */
+    margin-left: 0%;
+    display: inline-block;
+    font-size: 100%;
+    text-align: center;
+    padding: 2%;
+    /* button color */
+    text-decoration-color: rgb(D3, D5, D6);
+    padding: 2%;
+    background-color: rgb(d3, d5, d6);
+    text-decoration: none;
+    border-radius: 8px;
+    border: 5px solid rgb(d3, d5, d6);
+}
+
+#orangeEmail {
+    /* margin-left: 10%; */
+    margin-top: 5%;
+    display: inline-block;
+    font-size: 40px;
+    padding: 3%;
+    /* button color */
+    text-decoration-color: rgb(d3, d5, d6);
+    padding: 2%;
+    background-color: rgb(d3, d5, d6);
+    text-decoration: none;
+    border-radius: 8px;
+    border: 5px solid rgb(d3, d5, d6);
+}
+
+a {
+    text-decoration: none;
+    /* text-family: candara; */
+}
+
+#description {
+    text-align: center;
+    font-size: 60px;
+    color: rgb(21, 228, 21);
+}
+
+*/ h1 {
+    text-align: center;
+}
+
+#or {
+    margin-top: 5%;
+    margin-left: 40%;
+    margin-right: 0%;
+    color: rgb(21, 228, 21);
+    border: 5px solid rgb(d3, d5, d6);
+    width: 18%;
+    -webkit-text-stroke: 1px black
+}
+
+#description1 {
+    font-size: 39px;
+    color: rgb(21, 228, 21);
+}
+
+#description2 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 60px;
+    color: rgb(21, 228, 21);
+}
